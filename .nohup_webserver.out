@@ -27,3 +27,7 @@ Hit CTRL-C to stop the server
 [2024-01-03T13:12:27.183Z]  "GET /file_van_floris.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-03T13:12:27.288Z]  "GET /images/Mortal.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-03T13:12:27.342Z]  "GET /Style_floris.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T13:16:19.190Z]  "GET /file_van_floris.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T13:16:19.336Z]  "GET /Style_floris.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T13:16:19.364Z]  "GET /images/Mortal.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T13:16:19.379Z]  "GET /images/Ps5.webp" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
