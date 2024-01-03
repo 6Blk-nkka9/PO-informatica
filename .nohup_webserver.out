@@ -21,3 +21,18 @@ Hit CTRL-C to stop the server
 (node:2608) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
 (Use `node --trace-deprecation ...` to show where the warning was created)
 [2024-01-03T11:33:00.362Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:34:31.318Z]  "GET /" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:34:32.497Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:34:33.417Z]  "GET /favicon.ico" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:34:33.418Z]  "GET /favicon.ico" Error (404): "Not found"
+[2024-01-03T11:34:35.341Z]  "GET /file_van_floris.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:34:36.444Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:35:12.239Z]  "GET /file_van_floris.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:35:12.335Z]  "GET /Style_Floris.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:35:12.336Z]  "GET /Style_Floris.css" Error (404): "Not found"
+[2024-01-03T11:35:12.344Z]  "GET /Mortal.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:35:12.345Z]  "GET /Mortal.png" Error (404): "Not found"
+[2024-01-03T11:35:12.347Z]  "GET /Mortal.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:35:12.347Z]  "GET /Mortal.jpeg" Error (404): "Not found"
+[2024-01-03T11:40:45.383Z]  "GET /?vscodeBrowserReqId=1704282044301" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-03T11:40:45.650Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
