@@ -5,18 +5,19 @@ main{ background-color: rgb(137, 237, 255);
     margin:auto;
  }
  nav {
-     background-color: rgb(1, 132, 155);
-     width: 900px;
-     height: 50px;
-     margin:auto;
+     background-color:red ;
+     width: 1300px;
+     height: 80px;
+     Float:right;
      border: 2px solid black;
   }
   article {
      background-color: rgb(1, 132, 155);
      width: 1100px;
-     height: 100px;
+     height: 110px;
      margin:auto;
      border: 3px solid black;
+     
   }
  
  article{
@@ -27,11 +28,7 @@ main{ background-color: rgb(137, 237, 255);
  margin:auto;
  }
  
- nav{
- width:500px;
- height:350px;
- background-color:blue;
- }
+ 
  
  #afbeelding{
  width: 200px;
