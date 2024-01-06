@@ -21,3 +21,7 @@ Hit CTRL-C to stop the server
 (node:1142) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
 (Use `node --trace-deprecation ...` to show where the warning was created)
 [2024-01-06T10:18:14.626Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-06T10:19:02.977Z]  "GET /index.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-06T10:19:04.135Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-06T10:22:44.666Z]  "GET /?vscodeBrowserReqId=1704536564259" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-06T10:22:44.814Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
