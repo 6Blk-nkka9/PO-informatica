@@ -119,19 +119,18 @@ border:6px solid black;
 }
 
 
-
 #blok9{
   width:25%;
   height:25%;
   background-color: white;
   float:right;
-  bor
 }
 
 
 
+
  *{
-  padding: 0;
+  padding:0 ;
   margin: 0;
   box-sizing: border-box;
   font-family: 'Crimson Text', serif;
