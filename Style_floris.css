@@ -104,17 +104,19 @@ border:6px solid black;
 }
 
 #afbeelding{
-  width:25%;
-  height:15%;
+  width:17%;
+  height:25%;
+  background-color: white;
+  float:right;
+ 
+}
+#afbeelding2{
+  width:7%;
+  height:7%;
   background-color: white;
   float:right;
   border:6px solid black;
 }
-
-
-
-
-
 
 
 
