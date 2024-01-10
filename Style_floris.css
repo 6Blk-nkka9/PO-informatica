@@ -97,7 +97,32 @@ margin-left: 25%;
   background-color: white;
   float:right;
   
+#blok8{
+width:20%;
+height:20%;
+background-color: white;
+margin-right: auto;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  }
+
  *{
   padding: 0;
   margin: 0;
@@ -135,7 +160,17 @@ header{
   transition: .3s;  
 }
 
-
+.logo{
+  color: var(--text-colour);
+  font-size: var(--main-font);
+  font-weight: 600;
+  line-height: 0.8;
+}
+#menu-icon{
+  font-size: 38px;
+  color: var(--text-colour);
+  z-index: 10001;
+  display: none;
 }
 .navbar{
   display: flex; 
@@ -153,7 +188,16 @@ header{
   background: var(--text-colour);
   color: #fff;
 }
-
+.icons{
+  display: inline-block;
+}
+.icons i{
+  color: var(--text-colour);
+  font-size: 24px;
+  margin-left: 15px;
+}
+.icons i:hover{
+  opacity: 0.7;
 }
 section{
   padding: 100px 8%;
@@ -167,6 +211,28 @@ section{
   cursor: pointer;
   padding-top: 2rem;
 }
+.box{
+  padding: 0px 20px 10px 20px;
+  background: transparent;
+  box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
+  border-radius: 10px;
+  position: relative;
+  transition: all .35s ease;
+}
+.box img{
+  width: 100%;
+  height: auto;
+
+}
+.box h4{
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+.box h5{
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
 }
 .box .cart i{
   position: absolute;
@@ -258,7 +324,17 @@ section{
  font-weight: 600;
  cursor: pointer;
 }
-.
+.last{
+ text-align: center;
+ padding: 17px;
+ background: #757575;
+}
+.last p{
+ color: var(--text-colour);
+ font-size: 15px;
+ font-weight: 600;
+ letter-spacing: 2px;
+
 }
 @media (max-width:800px){
  #menu-icon{
