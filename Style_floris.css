@@ -75,11 +75,11 @@ border:6px solid black;
  }
 
 #blok5{
-  width:40%;
+  width:30%;
   height:12%;
   background-color: white;
 float:left;
-  border:6px solid black;
+ 
 
 
 }
@@ -111,21 +111,24 @@ border:6px solid black;
  
 }
 #afbeelding2{
-  width:7%;
-  height:7%;
+  width:11%;
+  height:11%;
   background-color: white;
-  float:right;
+  float:left;
   border:6px solid black;
 }
 
 
 
+#blok9{
+  width:25%;
+  height:25%;
+  background-color: white;
+  float:right;
+  bor
+}
 
 
-
-
-
- 
 
  *{
   padding: 0;
