@@ -94,12 +94,21 @@ float:left;
   width:7%;
   height:200%;
   background-color: white;
-  float:right;
-#Zie-ook{
-width:15%;
-height:15%;
+  float:right;}
+ #Zie{
+width:35%;
+height:5%;
 background-color: white;
 float:right;
+border:6px solid black;
+}
+
+#afbeelding{
+  width:25%;
+  height:15%;
+  background-color: white;
+  float:right;
+  border:6px solid black;
 }
 
 
@@ -114,9 +123,7 @@ float:right;
 
 
 
-
-
- }
+ 
 
  *{
   padding: 0;
