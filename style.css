@@ -16,7 +16,7 @@
 
  }
  body{
-   background: var(--bg-colour);
+   background:var(--bg-color);
    color: var(--text-colour);
 
  }
@@ -127,7 +127,7 @@
  }
 
  .About{
-   background: #f7f6f6;
+   background: lightgray;
    display: flex;
    align-items: center;
    justify-content: center;
