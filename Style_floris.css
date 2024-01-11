@@ -85,14 +85,14 @@ float:left;
 }
 #blok6{
   width:5%;
-  height:200%;
+  height:150%;
   background-color: white;
   float: left;
 
  }
  #blok7{
   width:5%;
-  height:250%;
+  height:150%;
   background-color: white;
   float:right;}
  #Zie{
@@ -169,7 +169,7 @@ float:right;
   width:25%;
   height:30%;
   background-color: white;
-  margin:30%;
+  margin-top:70%;
   margin-left: 7%;
 }
 
