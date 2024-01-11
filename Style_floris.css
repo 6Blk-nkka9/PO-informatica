@@ -170,7 +170,7 @@ float:right;
   height:20%;
   background-color: white;
  margin:auto;
-
+float:left;
   margin-left: 8%;
 }
 #afbeelding5{
@@ -181,6 +181,7 @@ float:right;
   border:6px solid black;
   margin-left: 8%;
   margin-bottom:5%;
+  float:left;
 }
 
 
