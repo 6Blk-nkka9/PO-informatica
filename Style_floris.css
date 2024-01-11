@@ -127,7 +127,7 @@ float:right;
 
 
 #blok9{
-  width:30%;
+  width:55%;
   height:30%;
   background-color: white;
   float:left;
@@ -167,7 +167,7 @@ float:right;
 
 #afbeelding4{
   width:25%;
-  height:30%;
+  height:20%;
   background-color: white;
  margin:auto;
 
@@ -178,7 +178,9 @@ float:right;
   height:5%;
   background-color: white;
   float:left;
-  
+  border:6px solid black;
+  margin-left: 8%;
+  margin-bottom:5%;
 }
 
 
