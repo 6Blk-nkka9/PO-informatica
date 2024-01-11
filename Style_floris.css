@@ -161,8 +161,12 @@ border:6px solid black;
   height:50%;
   background-color: white;
   float:left;
-  
 }
+#afbeelding3:hover{
+  transform: translateY(-10px);
+
+}
+
 :root{
   --bg-color: #ffffff;
   --text-colour: #121212;
