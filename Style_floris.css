@@ -114,8 +114,7 @@ border:6px solid black;
   display: inline-flex;
 }
 #afbeelding:hover{
-
-
+  transform: translateY(-10px);
 }
 
 #afbeelding2{
@@ -157,7 +156,13 @@ border:6px solid black;
   list-style: none;
   scroll-behavior: smooth;
 }
-
+#afbeelding3{
+  width:50%;
+  height:50%;
+  background-color: white;
+  float:left;
+  
+}
 :root{
   --bg-color: #ffffff;
   --text-colour: #121212;
@@ -210,8 +215,7 @@ header{
 
 }
 .navbar a:hover{
-  background: var(--text-colour);
-  color: #fff;
+  transform: translateY(-5px);
 }
 .icons{
   display: inline-block;
