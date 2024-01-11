@@ -148,8 +148,28 @@
   left: 210px;
   bottom: 15px;
 }
+.Bekijk{
+position: absolute;
+left: 1050px;
+bottom: -450px;
+
+}
+#afbeelding{
+  width:400px;
+  height:200px;
+  background-color: white;
+  float:right;
+  transition: all .35s ease;
+  position: relative;
+  top: 500px;
+
+  display: inline-flex;
+}
+#afbeelding:hover{
+  transform: translateY(-10px);
+}
 .About{
-  background: lightgray;
+  background: white;
   display: flex;
   align-items: center;
   justify-content: center;
