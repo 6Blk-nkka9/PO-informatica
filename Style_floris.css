@@ -164,9 +164,17 @@ float:right;
   float:left;
   transition: all .35s ease;
 }
-#afbeelding3:hover{
-  transform: translateY(-10px);
 
+#afbeelding4{
+  width:25%;
+  height:30%;
+  background-color: white;
+  margin:30%;
+  margin-left: 7%;
+}
+
+  #afbeelding3:hover{
+  transform: translateY(-10px);
 }
 
 :root{
