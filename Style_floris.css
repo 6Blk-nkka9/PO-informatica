@@ -436,3 +436,15 @@ section{
    top: 100%;
  }
 }
+
+
+
+
+#das-blok{
+  background-color:white;
+     width: 30%;
+     height: 30%;
+     
+     border: 8px solid black;
+     
+}
