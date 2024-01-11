@@ -128,14 +128,14 @@
 .hoofdtekst{
    font-size: var(--main-font);
     position: absolute;
-    left: 1050px;
+    left: 950px;
     right: 0;
     height: 200px;
 
 }
 .hoofdtekst1{
   height: 100px;
-  left: 1050px;
+  left: 950px;
   right: 0;
   position: absolute;
 }
@@ -145,13 +145,13 @@
   background: #a84909;
   border-radius: 40px;
   position: relative;
-  left: 210px;
+  left: 180px;
   bottom: 15px;
 }
 .Bekijk{
 position: absolute;
-left: 1050px;
-bottom: 0px;
+left: 800px;
+bottom: -750px;
 
 }
 #afbeelding{
@@ -161,7 +161,7 @@ bottom: 0px;
   float:right;
   transition: all .35s ease;
   position: relative;
-  top: 100px;
+  top:  450px;
 
   display: inline-flex;
 }

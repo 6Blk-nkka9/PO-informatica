@@ -128,14 +128,14 @@
 .hoofdtekst{
    font-size: var(--main-font);
     position: absolute;
-    left: 600px;
+    left: 750px;
     right: 0;
     height: 200px;
 
 }
 .hoofdtekst1{
   height: 100px;
-  left: 600px;
+  left: 750px;
   right: 0;
   position: absolute;
 }
@@ -145,12 +145,12 @@
   background: #a84909;
   border-radius: 40px;
   position: relative;
-  left: 210px;
+  left: 280px;
   bottom: 15px;
 }
 .Bekijk{
 position: absolute;
-left: 825px;
+left: 800px;
 bottom: -300px;
 
 }
@@ -161,8 +161,8 @@ bottom: -300px;
   float:right;
   transition: all .35s ease;
   position: relative;
-  top: 250px;
-  left: 50px;
+  top:  200px;
+
   display: inline-flex;
 }
 #afbeelding:hover{
