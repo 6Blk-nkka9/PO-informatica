@@ -100,7 +100,7 @@ width:35%;
 height:5%;
 background-color: white;
 float:right;
-border:6px solid black;
+
 }
 
 #afbeelding{
@@ -142,7 +142,7 @@ border:6px solid black;
   width:20%;
   height:20%;
   background-color: white;
-  float:left;
+margin-top:140%
   border:6px solid black;
 }
 
@@ -157,10 +157,11 @@ border:6px solid black;
   scroll-behavior: smooth;
 }
 #afbeelding3{
-  width:50%;
-  height:50%;
+  width:30%;
+  height:30%;
   background-color: white;
   float:left;
+  transition: all .35s ease;
 }
 #afbeelding3:hover{
   transform: translateY(-10px);
