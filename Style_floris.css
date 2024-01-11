@@ -169,9 +169,18 @@ float:right;
   width:25%;
   height:30%;
   background-color: white;
-  margin-top:70%;
-  margin-left: 7%;
+ margin:auto;
+
+  margin-left: 8%;
 }
+#afbeelding5{
+  width:30%;
+  height:5%;
+  background-color: white;
+  float:left;
+  
+}
+
 
   #afbeelding3:hover{
   transform: translateY(-10px);
