@@ -139,9 +139,12 @@
   right: 0;
   position: absolute;
 }
-.oval {
+.oval{
   width: 150px;
-  height: -20px;
+  height: -40px;
   background: #a84909;
-  border-radius: 150px;
+  border-radius: 40px;
+  position: relative;
+  left: 210px;
+  bottom: 15px;
 }
