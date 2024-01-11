@@ -151,7 +151,7 @@
 .Bekijk{
 position: absolute;
 left: 1050px;
-bottom: -700px;
+bottom: 0px;
 
 }
 #afbeelding{
@@ -161,7 +161,7 @@ bottom: -700px;
   float:right;
   transition: all .35s ease;
   position: relative;
-  top: 500px;
+  top: 100px;
 
   display: inline-flex;
 }
