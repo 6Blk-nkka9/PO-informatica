@@ -84,15 +84,15 @@ float:left;
 
 }
 #blok6{
-  width:7%;
+  width:5%;
   height:200%;
   background-color: white;
   float: left;
 
  }
  #blok7{
-  width:7%;
-  height:200%;
+  width:5%;
+  height:250%;
   background-color: white;
   float:right;}
  #Zie{
@@ -108,26 +108,44 @@ border:6px solid black;
   height:25%;
   background-color: white;
   float:right;
- 
+  transition: all .35s ease;
+  position: relative;
+
+  display: inline-flex;
 }
+#afbeelding:hover{
+
+
+}
+
 #afbeelding2{
-  width:11%;
-  height:11%;
+  width:9%;
+  height:9%;
   background-color: white;
   float:left;
-  border:6px solid black;
+  
 }
 
 
 #blok9{
-  width:40%;
-  height:40%;
+  width:30%;
+  height:30%;
+  background-color: white;
+  float:left;
+  border:6px solid black;
+  transition: border 2s;
+}
+#blok9:hover{
+  border:12px solid rgb(230, 36, 36);
+}
+
+#blok10{
+  width:20%;
+  height:20%;
   background-color: white;
   float:left;
   border:6px solid black;
 }
-
-
 
 
  *{
