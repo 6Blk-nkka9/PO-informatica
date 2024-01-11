@@ -237,3 +237,14 @@
     top: 100%;
   }
  }
+
+
+
+ #das-blok{
+  background-color:white;
+     width: 100%;
+     height: 100%;
+     Float:right;
+     border: 8px solid black;
+     
+}
