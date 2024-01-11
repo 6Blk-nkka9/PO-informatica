@@ -148,3 +148,37 @@
   left: 210px;
   bottom: 15px;
 }
+.About{
+  background: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.About-content{
+  text-align: center;
+}
+.About-content h2{
+  font-size: var(--main-font);
+  margin-bottom: 30px;
+}
+.About-content p{
+  max-width: 6000px;
+  font-size: 6;
+  font-weight: 60;
+  color: var(--text-color);
+  line-height: 20px;
+
+}
+
+.last{
+  text-align: center;
+  padding: 17px;
+  background: #757575;
+ }
+ .last p{
+  color: var(--text-colour);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 2px;
+ }
