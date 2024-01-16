@@ -10,16 +10,30 @@
 
 
 #blok-1{
-  background-color:red;
+  background-color:white;
   width:100%;
-  height:100%;
+  height:1000%;
   border: 8px solid black;
 }
 
 
+#wrapper {
+  width: 90%;
+  margin:auto;
+height:90;
+}
 
 
-
+#blok9{
+  width:55%;
+  height:30%;
+  background-color: white;
+  float:left;
+  border:6px solid black;
+  transition: border 2s;
+}
+#blok9:hover{
+  border:12px solid rgb(230, 36, 36);}
 
 
 
