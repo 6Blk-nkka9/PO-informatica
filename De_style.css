@@ -25,7 +25,7 @@ height:90;
 
 
 #blok9{
-  width:55%;
+  width: 32%;
   height:600px;
   background-color: white;
   border:6px solid black;
@@ -45,7 +45,7 @@ height:90;
     #afbeelding35{
       width:45%;
       height:500px;
-      Float:right
+  float:right
     }
 
 
