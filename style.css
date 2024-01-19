@@ -74,9 +74,9 @@
  .icons i:hover{
    opacity: 0.7;
  }
- section{
-   padding: 100px 8%;
- }
+#section2{padding:8%}
+
+
  .container{
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(360px, auto));
