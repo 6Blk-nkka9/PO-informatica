@@ -17,6 +17,7 @@ Available on:
   http://172.16.5.4:8080
 Hit CTRL-C to stop the server
 
+<<<<<<< HEAD
 [2024-01-19T15:27:08.535Z]  "GET /" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 (node:1036) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
 (Use `node --trace-deprecation ...` to show where the warning was created)
@@ -658,3 +659,54 @@ Hit CTRL-C to stop the server
 [2024-01-19T17:05:49.214Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-19T17:05:49.220Z]  "GET /images/ps5.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-19T17:05:49.228Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+=======
+[2024-01-19T20:49:47.636Z]  "GET /?vscodeBrowserReqId=1705697383848" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+(node:358) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2024-01-19T20:49:47.856Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:49:48.205Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:49:48.212Z]  "GET /images/ps5.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:49:48.419Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:40.043Z]  "GET /main_nintendo.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:40.988Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:41.050Z]  "GET /nintendo.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:41.085Z]  "GET /images/ps5.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:41.088Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:43.120Z]  "GET /betalen.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:53:44.253Z]  "GET /betalen.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:34.719Z]  "GET /main_nintendo.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:34.983Z]  "GET /nintendo.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:35.038Z]  "GET /images/ps5.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:35.052Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:35.068Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:42.413Z]  "GET /main_ps5.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:43.485Z]  "GET /playstation.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:43.503Z]  "GET /images/Ps5.webp" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:43.509Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:43.519Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:45.436Z]  "GET /betalen_1.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:56:46.516Z]  "GET /betalen.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:57:23.252Z]  "GET /betalen_1.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:57:23.392Z]  "GET /betalen.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:57:28.492Z]  "GET /action_page.php?firstname=&email=&address=&city=&state=&zip=&cardname=&cardnumber=&expmonth=&expyear=&cvv=&sameadr=on" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:57:28.493Z]  "GET /action_page.php?firstname=&email=&address=&city=&state=&zip=&cardname=&cardnumber=&expmonth=&expyear=&cvv=&sameadr=on" Error (404): "Not found"
+[2024-01-19T20:57:32.890Z]  "GET /betalen_1.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:57:33.002Z]  "GET /betalen.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:51.664Z]  "GET /main_ps5.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:51.750Z]  "GET /playstation.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:51.792Z]  "GET /images/Ps5.webp" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:51.828Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:51.865Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:55.560Z]  "GET /Xbox.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:56.683Z]  "GET /xbox.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:56.709Z]  "GET /images/Ps5.webp" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:56.711Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T20:58:56.713Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:09.472Z]  "GET /Xbox.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:09.598Z]  "GET /images/download%20(4).jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:09.601Z]  "GET /xbox.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:09.601Z]  "GET /images/xbox%20x.jpeg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:09.660Z]  "GET /images/Ps5.webp" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:11.708Z]  "GET /betalen_2.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-19T21:00:13.736Z]  "GET /betalen.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+>>>>>>> aeff985 (ncs)
