@@ -199,15 +199,13 @@ bottom: -750px;
 
 }
 #afbeelding{
-  width:400px;
-  height:200px;
+  width:25%;
+  height:400px;
   background-color: white;
   float:right;
   transition: all .35s ease;
-  position: relative;
-  top:  450px;
-
-  display: inline-flex;
+  
+  top:  550px;
 }
 #afbeelding:hover{
   transform: translateY(-10px);
