@@ -195,8 +195,7 @@
 .Bekijk{
 position: absolute;
 left: 800px;
-bottom: -750px;
-
+float:right;
 }
 #afbeelding{
   width:25%;
@@ -204,8 +203,8 @@ bottom: -750px;
   background-color: white;
   float:right;
   transition: all .35s ease;
-  
-  top:  550px;
+  bottom:20%;
+
 }
 #afbeelding:hover{
   transform: translateY(-10px);
